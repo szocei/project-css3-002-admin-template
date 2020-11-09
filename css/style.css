@@ -11,12 +11,14 @@ body {
 .header__title {
     display: inline-block;
     font-size: 1.25rem;
+    padding-left: 1rem;
 }
 
 .header__search {
     display: inline;
     float: right;
     margin-top: 0.75rem;
+    font-size: 1.25rem;
    
 }
 
@@ -128,7 +130,7 @@ transition: background-color 3s ease-in-out;
     
 }
 
-.main__cards .main__cards {
+.main__card {
     display: inline-block;
     width: 23%;
     margin: 0.5rem;
