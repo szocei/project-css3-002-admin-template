@@ -156,4 +156,8 @@ border-top: solid 1px rgba(0, 0, 0, 0.1);
     margin-left: .5rem;
     font-size: 3rem;
 }
+.card__bottom .fa
+{
+    float: right;
+}
 
